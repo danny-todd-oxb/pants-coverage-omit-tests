@@ -12,4 +12,5 @@ use_coverage = true
 
 [coverage-py]
 version = "coverage[toml]==6.4.4"
+lockfile = "<none>"
 #global_report = true
